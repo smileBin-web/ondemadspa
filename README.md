@@ -1,5 +1,5 @@
 # ondemadspa
- installation 
+ HOW TO START
 
  1, cd this folder
 
