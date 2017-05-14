@@ -10,6 +10,6 @@
  3, run 'npm install'
 
 
- 4, run 'npm run dev' to start development model or 'npm run pro' to start production model
+ 4, run 'npm run dev' to start development model or 'npm run pro' to start production model（if you hava not nginx just visit localhost:8485）
 
 
